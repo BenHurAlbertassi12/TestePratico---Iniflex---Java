@@ -17,41 +17,41 @@ Olá! Este é o repositório do meu projeto para o Teste Prático de Programaç�
 ### 3. Ações
 
 3.1. Inserir Funcionários: 
-[] Inseri todos os funcionários na mesma ordem e informações da tabela.
+- Inseri todos os funcionários na mesma ordem e informações da tabela.
 
 3.2. Remover Funcionário:
-[] Removi o funcionário "João" da lista.
+<!-- - Removi o funcionário "João" da lista. -->
 
 3.3. Imprimir Funcionários:
-[] Imprimi todos os funcionários com informações formatadas, incluindo datas e valores numéricos.
+<!-- - Imprimi todos os funcionários com informações formatadas, incluindo datas e valores numéricos. -->
 
 3.4. Atualizar Salários:
-[] Apliquei um aumento de 10% nos salários de todos os funcionários.
+<!-- - Apliquei um aumento de 10% nos salários de todos os funcionários. -->
 
 3.5. Agrupar Funcionários por Função:
-[] Agrupei os funcionários por função usando um MAP.
+<!-- - Agrupei os funcionários por função usando um MAP. -->
 
 3.6. Imprimir Funcionários Agrupados:
-[] Imprimi os funcionários agrupados por função.
+<!-- - Imprimi os funcionários agrupados por função. -->
 
 3.8. Aniversariantes:
-[] Imprimi os funcionários que fazem aniversário nos meses 10 e 12.
+<!-- - Imprimi os funcionários que fazem aniversário nos meses 10 e 12. -->
 
 3.9. Maior Idade:
-[] Imprimi o funcionário com a maior idade, exibindo nome e idade.
+<!-- - Imprimi o funcionário com a maior idade, exibindo nome e idade. -->
 
 3.10. Ordem Alfabética:
-[] Imprimi a lista de funcionários em ordem alfabética.
+<!-- - Imprimi a lista de funcionários em ordem alfabética. -->
 
 3.11. Total de Salários:
-[] Imprimi o total dos salários dos funcionários.
+<!-- - Imprimi o total dos salários dos funcionários. -->
 
 3.12. Salários em Salários Mínimos:
-[] Calculei quantos salários mínimos cada funcionário ganha, considerando R$1212.00 como salário mínimo.
+<!-- - Calculei quantos salários mínimos cada funcionário ganha, considerando R$1212.00 como salário mínimo. -->
 
 ## Observações
 
-[] Comentei no código quando não consegui desenvolver um requisito específico.
+Comentei no código quando não consegui desenvolver um requisito específico.
 
 ## Finalização
 
