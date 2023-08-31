@@ -4,5 +4,10 @@ import java.time.LocalDate;
 
 public class Pessoas {
     public String nome;
-    public LocalDate data_nascimento;
+    public LocalDate dataNascimento;
+
+    public Pessoas(String nome, LocalDate dataNascimento) {
+        this.nome = nome;
+        this.dataNascimento = dataNascimento;
+}
 }
