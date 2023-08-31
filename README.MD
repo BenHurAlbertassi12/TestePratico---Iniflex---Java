@@ -18,9 +18,10 @@ Olá! Este é o repositório do meu projeto para o Teste Prático de Programaç�
 
 3.1. Inserir Funcionários: 
 - Inseri todos os funcionários na mesma ordem e informações da tabela.
+- Completei os codigos Pessoas e Funcionario
 
 3.2. Remover Funcionário:
-<!-- - Removi o funcionário "João" da lista. -->
+- Removi o funcionário "João" da lista.
 
 3.3. Imprimir Funcionários:
 <!-- - Imprimi todos os funcionários com informações formatadas, incluindo datas e valores numéricos. -->
