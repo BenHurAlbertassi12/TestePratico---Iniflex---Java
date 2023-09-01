@@ -24,16 +24,16 @@ Olá! Este é o repositório do meu projeto para o Teste Prático de Programaç�
 - Removi o funcionário "João" da lista.
 
 3.3. Imprimir Funcionários:
-<!-- - Imprimi todos os funcionários com informações formatadas, incluindo datas e valores numéricos. -->
+- Imprimi todos os funcionários com informações formatadas, incluindo datas e valores numéricos.
 
 3.4. Atualizar Salários:
-<!-- - Apliquei um aumento de 10% nos salários de todos os funcionários. -->
+- Apliquei um aumento de 10% nos salários de todos os funcionários.
 
 3.5. Agrupar Funcionários por Função:
-<!-- - Agrupei os funcionários por função usando um MAP. -->
+- Agrupei os funcionários por função usando um MAP.
 
 3.6. Imprimir Funcionários Agrupados:
-<!-- - Imprimi os funcionários agrupados por função. -->
+- Imprimi os funcionários agrupados por função.
 
 3.8. Aniversariantes:
 <!-- - Imprimi os funcionários que fazem aniversário nos meses 10 e 12. -->
