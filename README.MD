@@ -13,6 +13,7 @@ Olá! Este é o repositório do meu projeto para o Teste Prático de Programaç�
 ### 2. Classe Principal
 
 - Criei uma classe `Principal` para executar as ações solicitadas.
+- Alterei o nome para `Main` por uma questão mais semantica
 
 ### 3. Ações
 
