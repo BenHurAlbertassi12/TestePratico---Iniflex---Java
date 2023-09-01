@@ -36,19 +36,19 @@ Olá! Este é o repositório do meu projeto para o Teste Prático de Programaç�
 - Imprimi os funcionários agrupados por função.
 
 3.8. Aniversariantes:
-<!-- - Imprimi os funcionários que fazem aniversário nos meses 10 e 12. -->
+- Imprimi os funcionários que fazem aniversário nos meses 10 e 12.
 
 3.9. Maior Idade:
-<!-- - Imprimi o funcionário com a maior idade, exibindo nome e idade. -->
+- Imprimi o funcionário com a maior idade, exibindo nome e idade.
 
 3.10. Ordem Alfabética:
-<!-- - Imprimi a lista de funcionários em ordem alfabética. -->
+- Imprimi a lista de funcionários em ordem alfabética.
 
 3.11. Total de Salários:
-<!-- - Imprimi o total dos salários dos funcionários. -->
+- Imprimi o total dos salários dos funcionários.
 
 3.12. Salários em Salários Mínimos:
-<!-- - Calculei quantos salários mínimos cada funcionário ganha, considerando R$1212.00 como salário mínimo. -->
+- Calculei quantos salários mínimos cada funcionário ganha, considerando R$1212.00 como salário mínimo.
 
 ## Observações
 
